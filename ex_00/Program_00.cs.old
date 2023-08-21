@@ -4,7 +4,7 @@ using System.Windows;
 using System.IO;
 namespace adventofcode;
 
-class Program
+class Program_00
 {
     static void Main(string[] args)
     {

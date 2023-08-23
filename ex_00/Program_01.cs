@@ -23,6 +23,8 @@ class Program_01
         formatted_input = get_input_lines(input_path);
         result = find_elf_with_most_calories(formatted_input);
         Console.WriteLine($"The result is {result}");
+        Console.Write("Enter anything to exit... ");
+        Console.ReadLine();
         return ;
     }
 
